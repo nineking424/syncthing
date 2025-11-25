@@ -1,5 +1,11 @@
 # Syncthing Kubernetes Deployment
 
+Syncthing을 Kubernetes에 배포하기 위한 매니페스트 파일 모음입니다.
+
+Syncthing은 오픈소스 P2P 파일 동기화 도구로, 여러 기기 간에 파일을 안전하게 동기화할 수 있습니다.
+
+---
+
 Kubernetes manifests for deploying Syncthing.
 
 ## Components
